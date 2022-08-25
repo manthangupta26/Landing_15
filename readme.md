@@ -15,7 +15,7 @@ Took 4-5 Hours to make, but learn lots of things.
 ___
 Click here to go the home page which is deployed via Netlify.
 
-[Click me](https://super-gaufre-887f73.netlify.app)
+[Click me](https://clinquant-marshmallow-418c04.netlify.app)
 
 ### Screenshots
 ___
