@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Montserrat:wght@200;300;900&family=Poppins:wght@400;500;700;900&family=Square+Peg&display=swap');
+
+body{
+    font-family: Poppins,sans-serif;
+}
+
+.i{
+    width: 80%;
+}
+
+.color{
+    background-image: linear-gradient(to right, #1d1d1d 50% , black 50%);
+}
+
+.rectangle {
+    height: 100px;
+    width: 150px;
+    background-color: #555;
+}
+
+.art{
+    width: 88%;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   margin-left: 6%;
+}
+
+.art1{
+    width: 78%;
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    margin-bottom: 4%; 
+    margin-left: 11%; 
+}
